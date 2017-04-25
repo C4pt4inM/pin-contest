@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+*    -----------------------------------------------------------------------------------------------
+*    Theme Name: Startuply WP Child Theme
+*    Theme URI: http://startuplywp.com
+*    Template: startuply
+*    Description: Startuply - Multi-purpose Responsive Startup Theme Child theme 
+*	 Tags: white, light, dark, two-columns, right-sidebar, responsive-layout, custom-background, custom-header, custom-menu, flexible-header, theme-options, translation-ready
+*	 Text Domain: vivaco
+*    Author: Vivaco
+*    Author URI: http://vivaco.com
+*    License: GNU General Public License version 3.0
+*    License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*    Version: 2.5.2
+*/
+ 
+@import url("../startuply/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
